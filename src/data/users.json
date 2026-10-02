@@ -1,0 +1,375 @@
+[
+  {
+    "id": 1,
+    "gender": "female",
+    "name": {
+      "title": "Mrs",
+      "first": "Emma",
+      "last": "Lampi"
+    },
+    "location": {
+      "street": {
+        "number": 2304,
+        "name": "Siilitie"
+      },
+      "city": "Hausjärvi",
+      "state": "Uusimaa",
+      "country": "Finland",
+      "postcode": 98555,
+      "timezone": {
+        "offset": "+8:00",
+        "description": "Beijing, Perth, Singapore, Hong Kong"
+      }
+    },
+    "email": "emma.lampi@example.com",
+    "dob": {
+      "date": "2001-03-08T01:39:19.084Z",
+      "age": 25
+    },
+    "phone": "02-689-410",
+    "cell": "043-730-12-94",
+    "picture": "/users/1.jpg",
+    "hobbies": [
+      "Travel",
+      "Photography",
+      "Hiking",
+      "Reading",
+      "Cooking",
+      "Music"
+    ],
+    "details": "Любить подорожувати та фотографувати природу."
+  },
+  {
+    "id": 2,
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Liam",
+      "last": "Becker"
+    },
+    "location": {
+      "street": {
+        "number": 112,
+        "name": "Hauptstraße"
+      },
+      "city": "Leipzig",
+      "state": "Sachsen",
+      "country": "Germany",
+      "postcode": 4109,
+      "timezone": {
+        "offset": "+1:00",
+        "description": "Brussels, Copenhagen, Madrid, Paris"
+      }
+    },
+    "email": "liam.becker@example.com",
+    "dob": {
+      "date": "1991-06-21T09:12:44.120Z",
+      "age": 34
+    },
+    "phone": "0341-5521-87",
+    "cell": "0151-4412-9034",
+    "picture": "/users/2.jpg",
+    "hobbies": [
+      "Music",
+      "Cooking",
+      "Reading"
+    ],
+    "details": "Інженер-програміст, у вільний час готує та грає на гітарі."
+  },
+  {
+    "id": 3,
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Noah",
+      "last": "Fischer"
+    },
+    "location": {
+      "street": {
+        "number": 8,
+        "name": "Gartenweg"
+      },
+      "city": "Salzburg",
+      "state": "Salzburg",
+      "country": "Austria",
+      "postcode": 5020,
+      "timezone": {
+        "offset": "+1:00",
+        "description": "Brussels, Copenhagen, Madrid, Paris"
+      }
+    },
+    "email": "noah.fischer@example.com",
+    "dob": {
+      "date": "2010-11-02T14:05:10.331Z",
+      "age": 15
+    },
+    "phone": "0662-318-204",
+    "cell": "0664-772-1180",
+    "picture": "/users/3.jpg",
+    "hobbies": [
+      "Hiking",
+      "Music"
+    ],
+    "details": "Школяр, захоплюється горами та грою на піаніно."
+  },
+  {
+    "id": 4,
+    "gender": "female",
+    "name": {
+      "title": "Mrs",
+      "first": "Olga",
+      "last": "Petrenko"
+    },
+    "location": {
+      "street": {
+        "number": 45,
+        "name": "Shevchenka"
+      },
+      "city": "Lviv",
+      "state": "Lvivska",
+      "country": "Ukraine",
+      "postcode": 79000,
+      "timezone": {
+        "offset": "+2:00",
+        "description": "Kyiv, Helsinki, Athens"
+      }
+    },
+    "email": "olga.petrenko@example.com",
+    "dob": {
+      "date": "1973-09-15T07:30:00.000Z",
+      "age": 52
+    },
+    "phone": "032-245-6781",
+    "cell": "067-891-2203",
+    "picture": "/users/4.svg",
+    "hobbies": [
+      "Reading",
+      "Cooking",
+      "Travel",
+      "Music"
+    ],
+    "details": "Викладачка літератури, веде власний книжковий клуб."
+  },
+  {
+    "id": 5,
+    "gender": "female",
+    "name": {
+      "title": "Ms",
+      "first": "Sofia",
+      "last": "Rossi"
+    },
+    "location": {
+      "street": {
+        "number": 27,
+        "name": "Via Roma"
+      },
+      "city": "Bologna",
+      "state": "Emilia-Romagna",
+      "country": "Italy",
+      "postcode": 40121,
+      "timezone": {
+        "offset": "+1:00",
+        "description": "Brussels, Copenhagen, Madrid, Paris"
+      }
+    },
+    "email": "sofia.rossi@example.com",
+    "dob": {
+      "date": "1997-02-27T18:44:09.900Z",
+      "age": 29
+    },
+    "phone": "051-776-3342",
+    "cell": "347-229-1018",
+    "picture": "/users/5.svg",
+    "hobbies": [
+      "Photography",
+      "Travel",
+      "Cooking"
+    ],
+    "details": "Фотографка, знімає архітектуру та вуличні сцени."
+  },
+  {
+    "id": 6,
+    "gender": "female",
+    "name": {
+      "title": "Miss",
+      "first": "Hanna",
+      "last": "Nowak"
+    },
+    "location": {
+      "street": {
+        "number": 91,
+        "name": "Lipowa"
+      },
+      "city": "Kraków",
+      "state": "Małopolskie",
+      "country": "Poland",
+      "postcode": 30002,
+      "timezone": {
+        "offset": "+1:00",
+        "description": "Brussels, Copenhagen, Madrid, Paris"
+      }
+    },
+    "email": "hanna.nowak@example.com",
+    "dob": {
+      "date": "2008-12-10T11:20:30.500Z",
+      "age": 17
+    },
+    "phone": "12-433-9051",
+    "cell": "512-884-3376",
+    "picture": "/users/6.svg",
+    "hobbies": [
+      "Music",
+      "Reading"
+    ],
+    "details": "Старшокласниця, співає в шкільному хорі."
+  },
+  {
+    "id": 7,
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "George",
+      "last": "Wilson"
+    },
+    "location": {
+      "street": {
+        "number": 15,
+        "name": "Elm Street"
+      },
+      "city": "Leeds",
+      "state": "West Yorkshire",
+      "country": "United Kingdom",
+      "postcode": "LS1 4AB",
+      "timezone": {
+        "offset": "+0:00",
+        "description": "Western Europe Time, London, Lisbon, Casablanca"
+      }
+    },
+    "email": "george.wilson@example.com",
+    "dob": {
+      "date": "1958-04-03T05:15:22.700Z",
+      "age": 67
+    },
+    "phone": "0113-496-0182",
+    "cell": "07700-900-453",
+    "picture": "/users/7.svg",
+    "hobbies": [
+      "Hiking",
+      "Reading",
+      "Travel"
+    ],
+    "details": "Пенсіонер, колишній інженер, любить довгі піші маршрути."
+  },
+  {
+    "id": 8,
+    "gender": "female",
+    "name": {
+      "title": "Mrs",
+      "first": "Marta",
+      "last": "Kowalczyk"
+    },
+    "location": {
+      "street": {
+        "number": 63,
+        "name": "Długa"
+      },
+      "city": "Gdańsk",
+      "state": "Pomorskie",
+      "country": "Poland",
+      "postcode": 80827,
+      "timezone": {
+        "offset": "+1:00",
+        "description": "Brussels, Copenhagen, Madrid, Paris"
+      }
+    },
+    "email": "marta.kowalczyk@example.com",
+    "dob": {
+      "date": "1985-08-29T20:01:55.250Z",
+      "age": 41
+    },
+    "phone": "58-301-7746",
+    "cell": "601-552-3089",
+    "picture": "/users/8.svg",
+    "hobbies": [
+      "Cooking",
+      "Travel",
+      "Photography"
+    ],
+    "details": "Шеф-кухарка, ділиться рецептами у соцмережах."
+  },
+  {
+    "id": 9,
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Jack",
+      "last": "Miller"
+    },
+    "location": {
+      "street": {
+        "number": 730,
+        "name": "Maple Avenue"
+      },
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "postcode": "M5V 2T6",
+      "timezone": {
+        "offset": "-5:00",
+        "description": "Eastern Time (US & Canada), Bogota, Lima"
+      }
+    },
+    "email": "jack.miller@example.com",
+    "dob": {
+      "date": "2002-10-18T23:59:01.000Z",
+      "age": 23
+    },
+    "phone": "416-555-0147",
+    "cell": "647-555-0192",
+    "picture": "/users/9.svg",
+    "hobbies": [
+      "Music",
+      "Photography",
+      "Hiking"
+    ],
+    "details": "Студент, працює над дипломним проєктом на Vue."
+  },
+  {
+    "id": 10,
+    "gender": "female",
+    "name": {
+      "title": "Mrs",
+      "first": "Ingrid",
+      "last": "Larsen"
+    },
+    "location": {
+      "street": {
+        "number": 19,
+        "name": "Storgata"
+      },
+      "city": "Bergen",
+      "state": "Vestland",
+      "country": "Norway",
+      "postcode": 5003,
+      "timezone": {
+        "offset": "+1:00",
+        "description": "Brussels, Copenhagen, Madrid, Paris"
+      }
+    },
+    "email": "ingrid.larsen@example.com",
+    "dob": {
+      "date": "1967-01-12T03:33:33.333Z",
+      "age": 58
+    },
+    "phone": "55-23-41-87",
+    "cell": "412-33-905",
+    "picture": "/users/10.svg",
+    "hobbies": [
+      "Hiking",
+      "Reading",
+      "Cooking",
+      "Travel"
+    ],
+    "details": "Бібліотекарка, щовихідних ходить у фʼорди."
+  }
+]
